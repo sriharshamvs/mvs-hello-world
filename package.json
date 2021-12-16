@@ -1,0 +1,23 @@
+{
+  "name": "mvs-hello-world",
+  "version": "1.0.0",
+  "description": "NPM package for Hello World",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sriharshamvs/mvs-hello-world.git"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "author": "sriharshamvs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sriharshamvs/mvs-hello-world/issues"
+  },
+  "homepage": "https://github.com/sriharshamvs/mvs-hello-world#readme"
+}
